@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="apihub_backed" />
+        <module name="interface" />
+        <module name="apihub_gateway" />
+        <module name="apihub_sdk" />
+        <module name="apihub-common" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="apihub-common" target="1.8" />
+      <module name="apihub_backed" target="1.8" />
+      <module name="apihub_gateway" target="1.8" />
+      <module name="apihub_sdk" target="1.8" />
+      <module name="interface" target="1.8" />
+      <module name="lihau-api" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="apihub-common" options="-parameters" />
+      <module name="apihub_backed" options="-parameters" />
+      <module name="apihub_gateway" options="-parameters" />
+      <module name="apihub_sdk" options="-parameters" />
+      <module name="interface" options="-parameters" />
+    </option>
+  </component>
+</project>

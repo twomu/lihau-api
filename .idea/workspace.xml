@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fd26116e-e02e-47bc-bb7d-d875cbb07ee3" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/dubbo-samples" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/RuanJian/apache-maven-3.6.1" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="E:\RuanJian\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="2VbE3G2YWAtPDtftBLkj7qjiZV0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="oracle&#10;mongo&#10;mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/apihub_gateway/src/main/java/com/lhj/apigateway/config" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java\openapi\lihau-api\apihub_gateway\src\main\java\com\lhj\apigateway\config" />
+      <recent name="D:\java\openapi\lihau-api\apihub_sdk\src\main\java\com\lhj\apiclient" />
+      <recent name="D:\java\openapi\lihau-api\apihub_backed\src\main\java\com\lhj\model\enums" />
+      <recent name="D:\java\openapi\lihau-api\apihub_backed\src\main\java\com\lhj\model" />
+      <recent name="D:\java\openapi\lihau-api\apihub_backed\src\main\java\com\lhj\controller" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lhj.model.vo" />
+      <recent name="com.lhj.controller" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ApihubGatewayApplication">
+    <configuration name="ApihubInterfaceApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="interface" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lhj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lhj" />
+      <option name="MAIN_CLASS_NAME" value="com.lhj.ApihubInterfaceApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApihubGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="apihub_gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lhj.apigateway.ApihubGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApihubInterfaceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="interface" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lhj.ApihubInterfaceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="apihub_backed" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lhj.MainApplication" />
+      <option name="ACTIVE_PROFILES" value="prod" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ApihubInterfaceApplicationTests" />
+      <item itemvalue="Spring Boot.ApihubGatewayApplication" />
+      <item itemvalue="Spring Boot.ApihubInterfaceApplication" />
+      <item itemvalue="Spring Boot.DemoApplication" />
+      <item itemvalue="Spring Boot.MainApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ApihubInterfaceApplicationTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd26116e-e02e-47bc-bb7d-d875cbb07ee3" name="Changes" comment="" />
+      <created>1695096180467</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695096180467</updated>
+      <workItem from="1695096182244" duration="6783000" />
+      <workItem from="1695107377951" duration="303000" />
+      <workItem from="1695107695710" duration="1034000" />
+      <workItem from="1695108779770" duration="373000" />
+      <workItem from="1695109170189" duration="19502000" />
+      <workItem from="1695134052907" duration="11226000" />
+      <workItem from="1695181946111" duration="6222000" />
+      <workItem from="1695194090019" duration="25258000" />
+      <workItem from="1695270366673" duration="22271000" />
+      <workItem from="1695355957752" duration="3821000" />
+      <workItem from="1695383147207" duration="296000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/apihub_gateway/src/main/java/com/lhj/apigateway/filter/interfaceFilter.java</url>
+          <line>210</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="org.springframework.http.server.reactive.ReactorServerHttpResponse" memberName="statusCode" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/lihau_api$MainApplication.ic" NAME="MainApplication Coverage Results" MODIFIED="1695216621719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

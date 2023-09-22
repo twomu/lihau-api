@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/apihub-common/apihub-common.iml" filepath="$PROJECT_DIR$/apihub-common/apihub-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apihub_backed/apihub_backed.iml" filepath="$PROJECT_DIR$/apihub_backed/apihub_backed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apihub_gateway/apihub_gateway.iml" filepath="$PROJECT_DIR$/apihub_gateway/apihub_gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apihub_sdk/apihub_sdk.iml" filepath="$PROJECT_DIR$/apihub_sdk/apihub_sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apihub_interface/interface.iml" filepath="$PROJECT_DIR$/apihub_interface/interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lihau-api.iml" filepath="$PROJECT_DIR$/lihau-api.iml" />
+    </modules>
+  </component>
+</project>
