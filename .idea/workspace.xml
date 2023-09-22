@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd26116e-e02e-47bc-bb7d-d875cbb07ee3" name="Changes" comment="" />
+    <list default="true" id="fd26116e-e02e-47bc-bb7d-d875cbb07ee3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/dubbo-samples" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -155,7 +158,7 @@
       <workItem from="1695194090019" duration="25258000" />
       <workItem from="1695270366673" duration="22271000" />
       <workItem from="1695355957752" duration="3821000" />
-      <workItem from="1695383147207" duration="296000" />
+      <workItem from="1695383147207" duration="636000" />
     </task>
     <servers />
   </component>
