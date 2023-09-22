@@ -6,9 +6,9 @@ spring:
   # todo 需替换配置
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://47.120.32.55:3306/openapi
-    username: study_test
-    password: 123456
+    url: xxxx
+    username: xxxx
+    password: xxxx
   # Redis 配置
   # todo 需替换配置
   redis:
